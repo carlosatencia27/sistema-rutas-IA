@@ -1,0 +1,22 @@
+% ===============================
+% Base de Conocimiento del Sistema de Rutas
+% ===============================
+
+% --- Estaciones ---
+station(a).
+station(b).
+station(c).
+station(d).
+station(e).
+station(f).
+
+% --- Conexiones entre estaciones ---
+% edge(Origen, Destino, Costo, Tiempo)
+
+edge(a, b, cost:3, time:5).
+edge(b, c, cost:2, time:3).
+edge(c, d, cost:4, time:6).
+edge(d, e, cost:1, time:2).
+edge(e, f, cost:5, time:8).
+edge(b, e, cost:7, time:10).
+edge(c, f, cost:6, time:9).
