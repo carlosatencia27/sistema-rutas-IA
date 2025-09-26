@@ -1,0 +1,2 @@
+Ruta óptima encontrada: a -> b -> c -> f
+Costo total (cost): 11
