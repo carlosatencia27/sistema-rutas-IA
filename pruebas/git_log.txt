@@ -1,0 +1,6 @@
+5c305f1 Carlos Daniel Atencia 2025-09-26 docs: agregar capturas de pantalla (pruebas)
+0380c32 Carlos Daniel Atencia 2025-09-26 test: agregar salidas de prueba para cost y duration
+5ea442b Carlos Daniel Atencia 2025-09-26 feat: agregar route_finder.py (A* route finder)
+adca67d Carlos Daniel Atencia 2025-09-25 feat: agregar base de conocimiento inicial con estaciones y conexiones
+6e29f2f Carlos Daniel Atencia 2025-09-25 docs: agregar README inicial con información del proyecto y del integrante
+8646e8a carlosatencia27 2025-09-25 Initial commit
